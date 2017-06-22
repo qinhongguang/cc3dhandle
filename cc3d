@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Project name="Input_output">
+        <Folder name="src" />
+        <Folder name="user">
+            <File name="cc3dhandle.c" />
+            <File name="main.c" />
+        </Folder>
+        <Folder name="head">
+            <File name="cc3dhandle.h" />
+        </Folder>
+    </Project>
+</NotepadPlus>
